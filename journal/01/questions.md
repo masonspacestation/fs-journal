@@ -1,15 +1,16 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > This is an answer.
+    > Offsite file storage, version control, and working in a team.
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > mkdir means "make directory", and it creates a new folder within your current location.
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > Specificity refers to how you target an element through CSS. It can benefit by allowing us to create more variety white maintaining fewer classes and ids.
+    For example, we could say that everything in the class "class-1" is colored red, and then we could specify that paragraph text is a different color from other text.
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
     > | ANSWER HERE |
@@ -22,7 +23,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > Element Identifier, property, value
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
@@ -37,4 +38,4 @@
     > | ANSWER HERE |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > height and width
