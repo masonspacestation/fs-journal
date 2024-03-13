@@ -2,5 +2,5 @@
 
 * **[Journal Setup](https://github.com/masonspacestation/fs-journal)**
 * **[Cool World Site](https://masonspacestation.github.io/cool-world-site/)**
-* **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
+* **[Building with Bootstrap](https://masonspacestation.github.io/1.3_building-with-bootstrap/)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
