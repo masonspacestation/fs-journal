@@ -39,10 +39,10 @@
     > | ANSWER HERE |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > Wireframes are beneficial because we can quickly (and inexpensively) see how the ideas will work together on a page. We can compare and choose from different directions before moving forward. It's very easy to change things around at this phase vs after pages or a product have been built.
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > I believe they're worth it. There are very few exploits that end better when we start without a plan. Wireframes are that plan, and having them can save us a lot of time and expense before project handoff.
 
 10. Define the display `:flex property:`
     > | ANSWER HERE |
