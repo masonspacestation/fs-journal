@@ -36,7 +36,9 @@
     ```
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > Good design has a big influence on people's perceptions of quality. Quality in products equals trustworthiness. 
+    Usability is influenced by design too—we need to make it clear through design what we intend people to do on our site. Otherwise they can get lost and frustrated and leave right away.
+    One final thing, which most people seem to understand is conveying your "personality" through design. This comes down to colors, fonts, image style. . . you need to match the vibe of your message and personality.
 
 08. What is the purpose of ***wireframing***?
     > Wireframes are beneficial because we can quickly (and inexpensively) see how the ideas will work together on a page. We can compare and choose from different directions before moving forward. It's very easy to change things around at this phase vs after pages or a product have been built.
@@ -45,7 +47,7 @@
     > I believe they're worth it. There are very few exploits that end better when we start without a plan. Wireframes are that plan, and having them can save us a lot of time and expense before project handoff.
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > display:flex creates an area where things can move around instead of being locked into the order where they've been written in HTML.
 
 11. What `CSS` properties affect the size of a box model?
-    > height and width
+    > height, width, padding, margin
