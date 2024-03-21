@@ -2,5 +2,5 @@
 
 * **[Scoreboard](https://masonspacestation.github.io/scoreboard/)**
 * **[Ice Cream Shop](https://masonspacestation.github.io/ice-cream-shop/>)**
-* **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
+* **[Sports Bets](https://masonspacestation.github.io/sportsbets/)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
