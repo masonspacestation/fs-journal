@@ -54,7 +54,14 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > 
+    The array.push method adds a specified element to the end of a specified array.
+
+    <i>you.friends.push(them)
+console.log(you)
+
+them.friends.push(you)
+console.log(them)</i>
 
 06. Give an example of a JavaScript `Conditional`:
 
