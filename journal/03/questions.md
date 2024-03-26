@@ -25,7 +25,7 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > organization
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   

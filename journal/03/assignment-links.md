@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
+* **[Game Night](https://masonspacestation.github.io/game-night-clone/)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
