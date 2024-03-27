@@ -9,7 +9,10 @@
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > Encapsulation is a way of bundling data so that it is only visible to other parts of the code that are specifically granted access.
+  There are a few different reasons why this is important:
+    • We can make small changes with small effort. If we change the name or value of something that is referenced throughout the code stack, the change is reflected all throughout. We don't need to track down every reference and change them manually.
+    
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
