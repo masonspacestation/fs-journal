@@ -23,7 +23,7 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > Get, post, put, delete
 
 07. What does the `API` acronym stand for?
 
@@ -43,4 +43,4 @@
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > 400 is a "Bad Request" error, meaning that the server sees or assumes an issue on the client side, and it cannot or will not process the request.
