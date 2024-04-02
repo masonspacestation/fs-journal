@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://masonspacestation.github.io/trivia/)**
-* **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
+* **[Trivia](https://masonspacestation.github.io/trivia/)**
+* **[Gregslist Houses and Jobs](https://masonspacestation.github.io/spring24_gregslistAsyncMVC/)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
