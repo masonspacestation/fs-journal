@@ -19,7 +19,8 @@
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > A promise is a way of making JavaScript slow down and wait for a response before continuing with the next line of code. It helps to make sure certain functions have all the information they need to carry out their task correctly, like a response from an API, or a user input like a confirmation alert.
+  Errors can be caught by using a catch() method. We can tell the program what to do if the request is denied or if a user response comes back falsy.
 
 06. Name three processes used to make requests over `HTTP`?
 
