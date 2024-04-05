@@ -11,11 +11,13 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > REST stands for "REpresentational State Transfer".
+  Simply put, it means that data received from an API will be representative of the current state of the requested resource.
+  The information will be the same, regardless of who asks for it, and regardless of prior requests. A RESTful API will allow the developer to perform actions with the data.
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > A callback function is a function that performs a task that may take longer, and "calls back" with the result when it's finished. This can help with load times, allowing processes to take place in the right order, but without waiting around for everything to be ready.
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
@@ -36,7 +38,10 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > Encapsulation is a way of bundling data so that it is only visible to other parts of the code that are specifically granted access.
+  There are a few different reasons why this is important:
+    • We can make small changes with small effort. If we change the name or value of something that is referenced throughout the code stack, the change is reflected all throughout. We don't need to track down every reference and change them manually.
+    • Access to certain portions of an application are limited for security and stability.
 
 10. What is `HTTP` response code for a successful request?
 
