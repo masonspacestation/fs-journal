@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
 * **[Burgershack](https://github.com/masonspacestation/burgershack)**
-* **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
+* **[Gregslist API: Houses and Jobs](https://github.com/masonspacestation/spring24_GregslistAPI)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
