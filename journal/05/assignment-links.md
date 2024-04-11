@@ -2,5 +2,5 @@
 
 * **[Burgershack](https://github.com/masonspacestation/burgershack)**
 * **[Gregslist API: Houses and Jobs](https://github.com/masonspacestation/spring24_GregslistAPI)**
-* **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
+* **[R.E.S.T.](https://github.com/masonspacestation/rest-agents)**
 * **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
