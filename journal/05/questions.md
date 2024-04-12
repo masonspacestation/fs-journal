@@ -24,7 +24,7 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > • one-to-one:
+  > • one-to-one: 
   • one-to-many: The bucketing method is a good way to handle one-to-many (1:M) cases such as paginating comments that could grow indefinitely.
   •many-to-many:
 
@@ -38,8 +38,8 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > const res = await axios.get('http://localhost:3000/?tag=winter')
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > A virtual property is sort of like another schema attached to the current schema with matching properties mapped over. For example, if we want to link a location to missions that occurred there, we could create a virtual property showing that the 'missionId' property in the location schema should match the '_id' property in a mission. Then we can access whatever information we want from the mission dynamically, instead of updating mission data in both places. Pretty dang sweet.
