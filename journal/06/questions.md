@@ -9,11 +9,11 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > Component-based architecture is a method of breaking an app out into small, self-sufficient functional pieces, that can be added in and reused throughout the program.
 
 04. What are the three tags that make up a Vue component?
 
-  > | ANSWER HERE |
+  > script, template, style sections
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
@@ -37,4 +37,4 @@
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > v-on
