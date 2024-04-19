@@ -21,7 +21,7 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > routes
+  > router-view
 
 07. What is the difference between the `AppState` and the state object within a component?
 
