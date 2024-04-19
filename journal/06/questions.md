@@ -1,7 +1,7 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > main.js
 
 02. What is the difference between a vue `component` and `page`?
 
@@ -17,11 +17,11 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > Lifecycle hooks are stages in the loading of a page or the data in the page. They can be used to trigger functions such as displaying changed information dynamically.
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > routes
 
 07. What is the difference between the `AppState` and the state object within a component?
 
