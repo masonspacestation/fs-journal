@@ -5,7 +5,7 @@
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > Components are reusable parts of an app that are nested inside a page, and can be used in more than one place. A page can (and most likely will) include more than one component.
 
 03. What is ***Component-Based Architecture***?
 
@@ -29,7 +29,7 @@
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > Same as it ever was. Services receive instructions from the page (acting as the controller) and communicate with the AppState and/or API to transform data.
 
 09. What are ***props*** and how are they used? Provide an example
 
