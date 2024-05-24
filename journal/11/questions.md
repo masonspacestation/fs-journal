@@ -47,14 +47,15 @@
 
   ```
 
-  > SELECT FROM
+  (when a doctorId has been passed)
+  >   SELECT FROM
   patient_doctors.*,
   doctors.*,
   patients.*
 
-  JOIN doctors ON doctors.id = patient_doctors.doctorId
+ >  JOIN doctors ON doctors.id = patient_doctors.doctorId
   JOIN patients ON patients.id = patient_doctors.patientId
-WHERE doctors.id = doctorId;
+WHERE doctors.id = @doctorId;
 
 
 
