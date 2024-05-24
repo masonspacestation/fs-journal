@@ -1,4 +1,5 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/masonspacestation/<ASSIGNMENT_REPO>)**
+* **[AllSpice](https://github.com/masonspacestation/all_spice_csharp)**
+
 
